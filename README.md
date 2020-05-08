@@ -56,3 +56,6 @@ Credits
 `DDC.c` originated from [jontaylor/DDC-CI-Tools-for-OS-X](https://github.com/jontaylor/DDC-CI-Tools-for-OS-X), but was reworked by others on the forums.  
 
 A few forks have also backported patches, which is *nice* :ok_hand:.
+
+Example run:
+ddcctl -d 1 -i 16 -b 60 #brightness set to 60 for DisplayPort-2
